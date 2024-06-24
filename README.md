@@ -62,10 +62,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![Vaishnav's GitHub stats](https://gh-readme-statistics.vercel.app/api?cache_seconds=86400&username=vaishnow&show_icons=true&hide_rank=true)
 
 ![Vaishnav's GitHub stats](https://gh-readme-statistics.vercel.app/api/top-langs?cache_seconds=86400&username=vaishnow&layout=compact)
+-->
 
-Last Update : 20/04/2024
+Last Update : 24/06/2024
